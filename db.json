@@ -1,34 +1,45 @@
 {
-    "todos": [
-        {
-            "id": 1,
-            "text": "im a todo",
-            "done": false
-        },
-        {
-            "id": 2,
-            "text": "im a todo 2",
-            "done": false
-        },
-        {
-            "id": 3,
-            "text": "im a todo 3",
-            "done": false
-        },
-        {
-            "id": 4,
-            "text": "im a todo 4",
-            "done": false
-        },
-        {
-            "id": 5,
-            "text": "im a todo 5",
-            "done": false
-        },
-        {
-            "id": 6,
-            "text": "im a todo 6",
-            "done": false
-        }
+  "what": {
+    "test": "test",
+    "list": [
+      {
+        "label": "test"
+      },
+      {
+        "label": "test2"
+      }
     ]
+  },
+  "todos": [
+    {
+      "id": 1,
+      "text": "im a todo",
+      "done": false
+    },
+    {
+      "id": 2,
+      "text": "im a todo 2",
+      "done": false
+    },
+    {
+      "id": 3,
+      "text": "im a todo 3",
+      "done": false
+    },
+    {
+      "id": 4,
+      "text": "im a todo 4",
+      "done": false
+    },
+    {
+      "id": 5,
+      "text": "im a todo 5",
+      "done": false
+    },
+    {
+      "id": 6,
+      "text": "im a todo 6",
+      "done": false
+    }
+  ]
 }
